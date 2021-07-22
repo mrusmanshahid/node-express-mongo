@@ -35,7 +35,7 @@ Sample Payload:
 }
 ```
 
-###### 2. get records
+##### 2. get records
 
 ```
 Request Type: 
