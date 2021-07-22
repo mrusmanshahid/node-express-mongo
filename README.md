@@ -52,5 +52,3 @@ Sample Payload:
     "endDate": "2022-01-20"
 }
 ```
-
-###### Feel free to contact for any queries 🙂
