@@ -42,7 +42,7 @@ Request Type:
 Post
 
 Endpoint:
-/records/get
+/records/fetch
 
 Sample Payload: 
 {
